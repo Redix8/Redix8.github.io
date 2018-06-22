@@ -3,7 +3,7 @@ main:
   - title: "Main"
     url: https://redix8.github.io
   - title: "About"
-    - name: "hi"
+    - title: "hi"
       url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Sample Posts"
     url: /year-archive/
