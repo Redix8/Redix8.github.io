@@ -3,10 +3,9 @@ main:
   - title: "Main"
     url: https://redix8.github.io
   - title: "About"
-    - title: "hi"
-      url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
+    url: /about/
+  - title: "Posts"
+    url: /posts/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
